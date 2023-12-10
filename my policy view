@@ -1,0 +1,414 @@
+/* My Policies viewing page */
+
+position: relative;
+width: 360px;
+height: 800px;
+
+background: #FFFFFF;
+
+
+/* SIGN UP */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 17.8762px;
+gap: 11.92px;
+isolation: isolate;
+
+position: absolute;
+width: 360px;
+height: 800px;
+left: 0px;
+top: 0px;
+
+background: url(WhatsApp Image 2023-12-09 at 7.06.37 PM.jpg);
+border-radius: 41.7111px;
+
+
+/* vecteezy_folder-file-documents_24090509 1 */
+
+position: absolute;
+width: 50px;
+height: 50px;
+left: 18px;
+top: 26px;
+
+background: url(vecteezy_folder-file-documents_24090509);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* My Policies */
+
+position: absolute;
+width: 278px;
+height: 27px;
+left: 73px;
+top: 44px;
+
+font-family: 'Baloo';
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 24px;
+/* or 53% */
+letter-spacing: 0.02em;
+
+color: #D00809;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Group 18 */
+
+position: absolute;
+width: 334px;
+height: 30px;
+left: 26px;
+top: 140px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* SELECT Policy YOU WANT TO VIEW */
+
+position: absolute;
+width: 334px;
+height: 30px;
+left: 26px;
+top: 140px;
+
+font-family: 'Bebas Neue';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 20px;
+/* or 79% */
+letter-spacing: 0.02em;
+
+color: #555151;
+
+
+
+/* Rectangle 10 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 299px;
+height: 52px;
+left: 31px;
+top: 179px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+
+/* ^ */
+
+position: absolute;
+width: 43px;
+height: 34px;
+left: 303px;
+top: 205px;
+
+font-family: 'Bebas Neue';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 20px;
+/* or 50% */
+letter-spacing: 0.02em;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+z-index: 4;
+
+
+/* Rectangle 11 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 299px;
+height: 164px;
+left: 31px;
+top: 231px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+z-index: 5;
+
+
+/* GOWD HEALTH PLUS */
+
+position: absolute;
+width: 211px;
+height: 17px;
+left: 43px;
+top: 251px;
+
+font-family: 'Bebas Neue';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 20px;
+/* or 79% */
+letter-spacing: 0.02em;
+
+color: #555151;
+
+
+/* Inside auto layout */
+flex: none;
+order: 6;
+flex-grow: 0;
+z-index: 6;
+
+
+/* GARG HEALTHY LIFE */
+
+position: absolute;
+width: 211px;
+height: 20px;
+left: 43px;
+top: 351px;
+
+font-family: 'Bebas Neue';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 20px;
+/* identical to box height, or 79% */
+letter-spacing: 0.02em;
+
+color: #555151;
+
+
+/* Inside auto layout */
+flex: none;
+order: 7;
+flex-grow: 0;
+z-index: 7;
+
+
+/* JOSHI HEALTH PLUS */
+
+position: absolute;
+width: 211px;
+height: 20px;
+left: 43px;
+top: 281px;
+
+font-family: 'Bebas Neue';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 20px;
+/* identical to box height, or 79% */
+letter-spacing: 0.02em;
+
+color: #555151;
+
+
+/* Inside auto layout */
+flex: none;
+order: 8;
+flex-grow: 0;
+z-index: 8;
+
+
+/* KOGTA HEALTH PLAN */
+
+position: absolute;
+width: 211px;
+height: 20px;
+left: 43px;
+top: 315px;
+
+font-family: 'Bebas Neue';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 20px;
+/* identical to box height, or 79% */
+letter-spacing: 0.02em;
+
+color: #555151;
+
+
+/* Inside auto layout */
+flex: none;
+order: 9;
+flex-grow: 0;
+z-index: 9;
+
+
+/* Rectangle 12 */
+
+position: absolute;
+width: 28px;
+height: 147px;
+left: 289px;
+top: 239px;
+
+background: #D9D9D9;
+
+/* Inside auto layout */
+flex: none;
+order: 10;
+flex-grow: 0;
+z-index: 10;
+
+
+/* Rectangle 13 */
+
+position: absolute;
+width: 18px;
+height: 76px;
+left: 294px;
+top: 256.5px;
+
+background: #A4A0A0;
+
+/* Inside auto layout */
+flex: none;
+order: 11;
+flex-grow: 0;
+z-index: 11;
+
+
+/* ^ */
+
+position: absolute;
+width: 43px;
+height: 11px;
+left: 296px;
+top: 243px;
+
+font-family: 'Bebas Neue';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 20px;
+/* or 66% */
+letter-spacing: 0.02em;
+
+color: #4C4747;
+
+border: 1px solid #000000;
+
+/* Inside auto layout */
+flex: none;
+order: 12;
+flex-grow: 0;
+z-index: 12;
+
+
+/* ^ */
+
+position: absolute;
+width: 43px;
+height: 17px;
+left: 296px;
+top: 380px;
+
+font-family: 'Bebas Neue';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 20px;
+/* or 66% */
+letter-spacing: 0.02em;
+
+color: #4C4747;
+
+border: 1px solid #000000;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+/* Inside auto layout */
+flex: none;
+order: 13;
+flex-grow: 0;
+z-index: 13;
+
+
+/* Group 23 */
+
+position: absolute;
+width: 144px;
+height: 48px;
+left: 111px;
+top: 710px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 14;
+flex-grow: 0;
+z-index: 14;
+
+
+/* Rectangle 9 */
+
+position: absolute;
+width: 144px;
+height: 48px;
+left: 111px;
+top: 710px;
+
+background: #EB1D1D;
+border-radius: 15px;
+
+
+/* SUBMIT */
+
+position: absolute;
+width: 68px;
+height: 28px;
+left: 149px;
+top: 730px;
+
+font-family: 'Bebas Neue';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 8px;
+/* or 23% */
+letter-spacing: 0.02em;
+
+color: #000000;
+
+border: 0.2px solid #000000;

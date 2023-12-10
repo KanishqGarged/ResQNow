@@ -1,0 +1,299 @@
+/* Uploading documents 1st time */
+
+position: relative;
+width: 360px;
+height: 800px;
+
+background: #555151;
+
+
+/* SIGN UP */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 17.8762px;
+gap: 11.92px;
+isolation: isolate;
+
+position: absolute;
+width: 360px;
+height: 800px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+
+
+/* Logo (1) 1 */
+
+width: 49.31px;
+height: 50px;
+
+background: url(Logo (1).png);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* WELCOME */
+
+position: absolute;
+width: 213px;
+height: 32px;
+left: 78px;
+top: 36px;
+
+font-family: 'Baloo';
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 24px;
+/* or 53% */
+letter-spacing: 0.02em;
+
+color: #D00809;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Group 25 */
+
+position: absolute;
+width: 317px;
+height: 48px;
+left: 18px;
+top: 139px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Group 18 */
+
+position: absolute;
+width: 162px;
+height: 30px;
+left: 18px;
+top: 157px;
+
+
+
+/* AAdhar card */
+
+position: absolute;
+width: 162px;
+height: 30px;
+left: 18px;
+top: 157px;
+
+font-family: 'Bebas Neue';
+font-style: normal;
+font-weight: 400;
+font-size: 29.7996px;
+line-height: 20px;
+/* or 67% */
+letter-spacing: 0.02em;
+
+color: #151313;
+
+
+
+/* Group 24 */
+
+position: absolute;
+width: 131px;
+height: 48px;
+left: 204px;
+top: 139px;
+
+
+
+/* Rectangle 9 */
+
+position: absolute;
+width: 131px;
+height: 48px;
+left: 204px;
+top: 139px;
+
+background: #D9D9D9;
+
+
+/* Choose File */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 95px;
+height: 8px;
+left: 224px;
+top: 161px;
+
+font-family: 'Bebas Neue';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 8px;
+/* identical to box height, or 33% */
+letter-spacing: 0.02em;
+
+color: #000000;
+
+border: 0.2px solid #000000;
+
+
+/* Group 26 */
+
+position: absolute;
+width: 321px;
+height: 48px;
+left: 14px;
+top: 234px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+
+/* Group 18 */
+
+position: absolute;
+width: 176px;
+height: 20px;
+left: 14px;
+top: 251px;
+
+
+
+/* RECENT PHOTOgraph */
+
+position: absolute;
+width: 176px;
+height: 20px;
+left: 14px;
+top: 251px;
+
+font-family: 'Bebas Neue';
+font-style: normal;
+font-weight: 400;
+font-size: 26px;
+line-height: 20px;
+/* identical to box height, or 76% */
+letter-spacing: 0.02em;
+
+color: #151313;
+
+
+
+/* Group 24 */
+
+position: absolute;
+width: 131px;
+height: 48px;
+left: 204px;
+top: 234px;
+
+
+
+/* Rectangle 9 */
+
+position: absolute;
+width: 131px;
+height: 48px;
+left: 204px;
+top: 234px;
+
+background: #D9D9D9;
+
+
+/* Choose File */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 95px;
+height: 8px;
+left: 224px;
+top: 255px;
+
+font-family: 'Bebas Neue';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 8px;
+/* identical to box height, or 33% */
+letter-spacing: 0.02em;
+
+color: #000000;
+
+border: 0.2px solid #000000;
+
+
+/* Group 23 */
+
+position: absolute;
+width: 144px;
+height: 48px;
+left: 108px;
+top: 675px;
+
+
+
+/* Rectangle 9 */
+
+position: absolute;
+width: 144px;
+height: 48px;
+left: 108px;
+top: 675px;
+
+background: #EB1D1D;
+border-radius: 15px;
+
+
+/* SUBMIT */
+
+position: absolute;
+width: 84px;
+height: 16px;
+left: 138px;
+top: 695px;
+
+font-family: 'Bebas Neue';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 8px;
+/* or 23% */
+letter-spacing: 0.02em;
+
+color: #000000;
+
+border: 0.2px solid #000000;
+
+
+/* image 38 */
+
+position: absolute;
+width: 360px;
+height: 820px;
+left: 0px;
+top: -20px;
+

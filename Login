@@ -1,0 +1,3174 @@
+/* LOGIN  */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 6px;
+gap: 4px;
+isolation: isolate;
+
+position: relative;
+width: 360px;
+height: 800px;
+
+background: rgba(255, 255, 255, 0.48);
+border-radius: 14px;
+
+
+/* Logo (1) 1 */
+
+position: absolute;
+width: 100px;
+height: 94.44px;
+left: 130px;
+top: 108px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Group 18 */
+
+position: absolute;
+width: 321px;
+height: 65.86px;
+left: 15px;
+top: 237px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Rectangle 8 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 205.87px;
+height: 46.43px;
+left: 130.13px;
+top: 237px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+
+
+/* LOGIN ID */
+
+position: absolute;
+width: 105.57px;
+height: 42.86px;
+left: 15px;
+top: 260px;
+
+font-family: 'Bebas Neue';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 8px;
+/* or 27% */
+letter-spacing: 0.02em;
+
+color: #151313;
+
+
+
+/* Group 20 */
+
+position: absolute;
+width: 321px;
+height: 65.86px;
+left: 15px;
+top: 326px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Rectangle 8 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 205.87px;
+height: 46.43px;
+left: 130.13px;
+top: 326px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+
+
+/* password */
+
+position: absolute;
+width: 105.57px;
+height: 42.86px;
+left: 15px;
+top: 349px;
+
+font-family: 'Bebas Neue';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 8px;
+/* or 27% */
+letter-spacing: 0.02em;
+
+color: #232020;
+
+
+
+/* ResQNow */
+
+position: absolute;
+width: 206px;
+height: 30px;
+left: 81px;
+top: 66px;
+
+font-family: 'Baloo';
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 8px;
+/* or 18% */
+letter-spacing: 0.02em;
+
+color: #D00809;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+
+/* FORGOT PASSWORD? */
+
+position: absolute;
+width: 167px;
+height: 30px;
+left: 184px;
+top: 400px;
+
+font-family: 'Bebas Neue';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 8px;
+/* or 32% */
+letter-spacing: 0.02em;
+
+color: #FF3333;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+z-index: 4;
+
+
+/* Group 23 */
+
+position: absolute;
+width: 113px;
+height: 48px;
+left: 125px;
+top: 455px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+z-index: 5;
+
+
+/* Rectangle 9 */
+
+position: absolute;
+width: 113px;
+height: 48px;
+left: 125px;
+top: 455px;
+
+background: #EB1D1D;
+border-radius: 15px;
+
+
+/* Log In */
+
+position: absolute;
+width: 71px;
+height: 8px;
+left: 145px;
+top: 477px;
+
+font-family: 'Bebas Neue';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 8px;
+/* identical to box height, or 23% */
+letter-spacing: 0.02em;
+
+color: #000000;
+
+border: 0.2px solid #000000;
+
+
+/* image 35 */
+
+position: absolute;
+width: 360px;
+height: 800px;
+left: 0px;
+top: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 6;
+flex-grow: 0;
+z-index: 6;
+
+
+/* image 43 */
+
+position: absolute;
+width: 125px;
+height: 108px;
+left: 109px;
+top: 96px;
+
+background: url(image.png);
+backdrop-filter: blur(2px);
+/* Note: backdrop-filter has minimal browser support */
+
+/* Inside auto layout */
+flex: none;
+order: 7;
+flex-grow: 0;
+z-index: 7;
+
+
+/* NOT AN EXISTING USER - SIGN UP */
+
+position: absolute;
+width: 297px;
+height: 15px;
+left: 55px;
+top: 571px;
+
+font-family: 'Bebas Neue';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 8px;
+/* or 32% */
+letter-spacing: 0.02em;
+
+color: #094CCE;
+
+
+/* Inside auto layout */
+flex: none;
+order: 8;
+flex-grow: 0;
+z-index: 8;
+
+
+/* Input Field */
+
+position: absolute;
+width: 205px;
+height: 42px;
+left: 130px;
+top: 239px;
+
+border: 1px solid #000000;
+
+/* Inside auto layout */
+flex: none;
+order: 9;
+flex-grow: 0;
+z-index: 9;
+
+
+/* Box */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+border-radius: 4px;
+
+
+/* Value */
+
+position: absolute;
+visibility: hidden;
+width: 302px;
+height: 15px;
+left: 15px;
+top: 17px;
+
+
+
+/* 26 */
+
+position: absolute;
+width: 13px;
+height: 15px;
+left: 304px;
+top: 17px;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+
+
+/* Value Field */
+
+position: absolute;
+width: 0px;
+height: 20px;
+left: 6px;
+top: -4px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Blinking Cursor */
+
+position: absolute;
+width: 0px;
+height: 13.2px;
+left: 0.5px;
+top: 1px;
+
+
+
+/* Start Cursor */
+
+position: absolute;
+left: -nan%;
+right: -nan%;
+top: 0%;
+bottom: 0%;
+
+border: 1px solid #000000;
+
+
+/* 25 */
+
+position: absolute;
+width: 13px;
+height: 15px;
+left: 292px;
+top: 17px;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+
+
+/* Value Field */
+
+position: absolute;
+width: 0px;
+height: 20px;
+left: 6px;
+top: -4px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Blinking Cursor */
+
+position: absolute;
+width: 0px;
+height: 13.2px;
+left: 0.5px;
+top: 1px;
+
+
+
+/* Start Cursor */
+
+position: absolute;
+left: -nan%;
+right: -nan%;
+top: 0%;
+bottom: 0%;
+
+border: 1px solid #000000;
+
+
+/* 24 */
+
+position: absolute;
+width: 13px;
+height: 15px;
+left: 280px;
+top: 17px;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+
+
+/* Value Field */
+
+position: absolute;
+width: 0px;
+height: 20px;
+left: 6px;
+top: -4px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Blinking Cursor */
+
+position: absolute;
+width: 0px;
+height: 13.2px;
+left: 0.5px;
+top: 1px;
+
+
+
+/* Start Cursor */
+
+position: absolute;
+left: -nan%;
+right: -nan%;
+top: 0%;
+bottom: 0%;
+
+border: 1px solid #000000;
+
+
+/* 23 */
+
+position: absolute;
+width: 13px;
+height: 15px;
+left: 268px;
+top: 17px;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+
+
+/* Value Field */
+
+position: absolute;
+width: 0px;
+height: 20px;
+left: 6px;
+top: -4px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Blinking Cursor */
+
+position: absolute;
+width: 0px;
+height: 13.2px;
+left: 0.5px;
+top: 1px;
+
+
+
+/* Start Cursor */
+
+position: absolute;
+left: -nan%;
+right: -nan%;
+top: 0%;
+bottom: 0%;
+
+border: 1px solid #000000;
+
+
+/* 22 */
+
+position: absolute;
+width: 13px;
+height: 15px;
+left: 256px;
+top: 17px;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+
+
+/* Value Field */
+
+position: absolute;
+width: 0px;
+height: 20px;
+left: 6px;
+top: -4px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Blinking Cursor */
+
+position: absolute;
+width: 0px;
+height: 13.2px;
+left: 0.5px;
+top: 1px;
+
+
+
+/* Start Cursor */
+
+position: absolute;
+left: -nan%;
+right: -nan%;
+top: 0%;
+bottom: 0%;
+
+border: 1px solid #000000;
+
+
+/* 21 */
+
+position: absolute;
+width: 13px;
+height: 15px;
+left: 244px;
+top: 17px;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+
+
+/* Value Field */
+
+position: absolute;
+width: 0px;
+height: 20px;
+left: 6px;
+top: -4px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Blinking Cursor */
+
+position: absolute;
+width: 0px;
+height: 13.2px;
+left: 0.5px;
+top: 1px;
+
+
+
+/* Start Cursor */
+
+position: absolute;
+left: -nan%;
+right: -nan%;
+top: 0%;
+bottom: 0%;
+
+border: 1px solid #000000;
+
+
+/* 20 */
+
+position: absolute;
+width: 13px;
+height: 15px;
+left: 232px;
+top: 17px;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+
+
+/* Value Field */
+
+position: absolute;
+width: 0px;
+height: 20px;
+left: 6px;
+top: -4px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Blinking Cursor */
+
+position: absolute;
+width: 0px;
+height: 13.2px;
+left: 0.5px;
+top: 1px;
+
+
+
+/* Start Cursor */
+
+position: absolute;
+left: -nan%;
+right: -nan%;
+top: 0%;
+bottom: 0%;
+
+border: 1px solid #000000;
+
+
+/* 19 */
+
+position: absolute;
+width: 13px;
+height: 15px;
+left: 220px;
+top: 17px;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+
+
+/* Value Field */
+
+position: absolute;
+width: 0px;
+height: 20px;
+left: 6px;
+top: -4px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Blinking Cursor */
+
+position: absolute;
+width: 0px;
+height: 13.2px;
+left: 0.5px;
+top: 1px;
+
+
+
+/* Start Cursor */
+
+position: absolute;
+left: -nan%;
+right: -nan%;
+top: 0%;
+bottom: 0%;
+
+border: 1px solid #000000;
+
+
+/* 18 */
+
+position: absolute;
+width: 13px;
+height: 15px;
+left: 208px;
+top: 17px;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+
+
+/* Value Field */
+
+position: absolute;
+width: 0px;
+height: 20px;
+left: 6px;
+top: -4px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Blinking Cursor */
+
+position: absolute;
+width: 0px;
+height: 13.2px;
+left: 0.5px;
+top: 1px;
+
+
+
+/* Start Cursor */
+
+position: absolute;
+left: -nan%;
+right: -nan%;
+top: 0%;
+bottom: 0%;
+
+border: 1px solid #000000;
+
+
+/* 17 */
+
+position: absolute;
+width: 13px;
+height: 15px;
+left: 196px;
+top: 17px;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+
+
+/* Value Field */
+
+position: absolute;
+width: 0px;
+height: 20px;
+left: 6px;
+top: -4px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Blinking Cursor */
+
+position: absolute;
+width: 0px;
+height: 13.2px;
+left: 0.5px;
+top: 1px;
+
+
+
+/* Start Cursor */
+
+position: absolute;
+left: -nan%;
+right: -nan%;
+top: 0%;
+bottom: 0%;
+
+border: 1px solid #000000;
+
+
+/* 16 */
+
+position: absolute;
+width: 13px;
+height: 15px;
+left: 184px;
+top: 17px;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+
+
+/* Value Field */
+
+position: absolute;
+width: 0px;
+height: 20px;
+left: 6px;
+top: -4px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Blinking Cursor */
+
+position: absolute;
+width: 0px;
+height: 13.2px;
+left: 0.5px;
+top: 1px;
+
+
+
+/* Start Cursor */
+
+position: absolute;
+left: -nan%;
+right: -nan%;
+top: 0%;
+bottom: 0%;
+
+border: 1px solid #000000;
+
+
+/* 15 */
+
+position: absolute;
+width: 13px;
+height: 15px;
+left: 172px;
+top: 17px;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+
+
+/* Value Field */
+
+position: absolute;
+width: 0px;
+height: 20px;
+left: 6px;
+top: -4px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Blinking Cursor */
+
+position: absolute;
+width: 0px;
+height: 13.2px;
+left: 0.5px;
+top: 1px;
+
+
+
+/* Start Cursor */
+
+position: absolute;
+left: -nan%;
+right: -nan%;
+top: 0%;
+bottom: 0%;
+
+border: 1px solid #000000;
+
+
+/* 14 */
+
+position: absolute;
+width: 13px;
+height: 15px;
+left: 160px;
+top: 17px;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+
+
+/* Value Field */
+
+position: absolute;
+width: 0px;
+height: 20px;
+left: 6px;
+top: -4px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Blinking Cursor */
+
+position: absolute;
+width: 0px;
+height: 13.2px;
+left: 0.5px;
+top: 1px;
+
+
+
+/* Start Cursor */
+
+position: absolute;
+left: -nan%;
+right: -nan%;
+top: 0%;
+bottom: 0%;
+
+border: 1px solid #000000;
+
+
+/* 13 */
+
+position: absolute;
+width: 13px;
+height: 15px;
+left: 148px;
+top: 17px;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+
+
+/* Value Field */
+
+position: absolute;
+width: 0px;
+height: 20px;
+left: 6px;
+top: -4px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Blinking Cursor */
+
+position: absolute;
+width: 0px;
+height: 13.2px;
+left: 0.5px;
+top: 1px;
+
+
+
+/* Start Cursor */
+
+position: absolute;
+left: -nan%;
+right: -nan%;
+top: 0%;
+bottom: 0%;
+
+border: 1px solid #000000;
+
+
+/* 12 */
+
+position: absolute;
+width: 13px;
+height: 15px;
+left: 136px;
+top: 17px;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+
+
+/* Value Field */
+
+position: absolute;
+width: 0px;
+height: 20px;
+left: 6px;
+top: -4px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Blinking Cursor */
+
+position: absolute;
+width: 0px;
+height: 13.2px;
+left: 0.5px;
+top: 1px;
+
+
+
+/* Start Cursor */
+
+position: absolute;
+left: -nan%;
+right: -nan%;
+top: 0%;
+bottom: 0%;
+
+border: 1px solid #000000;
+
+
+/* 11 */
+
+position: absolute;
+width: 13px;
+height: 15px;
+left: 124px;
+top: 17px;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+
+
+/* Value Field */
+
+position: absolute;
+width: 0px;
+height: 20px;
+left: 6px;
+top: -4px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Blinking Cursor */
+
+position: absolute;
+width: 0px;
+height: 13.2px;
+left: 0.5px;
+top: 1px;
+
+
+
+/* Start Cursor */
+
+position: absolute;
+left: -nan%;
+right: -nan%;
+top: 0%;
+bottom: 0%;
+
+border: 1px solid #000000;
+
+
+/* 10 */
+
+position: absolute;
+width: 13px;
+height: 15px;
+left: 113px;
+top: 17px;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+
+
+/* Value Field */
+
+position: absolute;
+width: 0px;
+height: 20px;
+left: 6px;
+top: -4px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Blinking Cursor */
+
+position: absolute;
+width: 0px;
+height: 13.2px;
+left: 0.5px;
+top: 1px;
+
+
+
+/* Start Cursor */
+
+position: absolute;
+left: -nan%;
+right: -nan%;
+top: 0%;
+bottom: 0%;
+
+border: 1px solid #000000;
+
+
+/* 9 */
+
+position: absolute;
+width: 13px;
+height: 15px;
+left: 102px;
+top: 17px;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+
+
+/* Value Field */
+
+position: absolute;
+width: 0px;
+height: 20px;
+left: 6px;
+top: -4px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Blinking Cursor */
+
+position: absolute;
+width: 0px;
+height: 13.2px;
+left: 0.5px;
+top: 1px;
+
+
+
+/* Start Cursor */
+
+position: absolute;
+left: -nan%;
+right: -nan%;
+top: 0%;
+bottom: 0%;
+
+border: 1px solid #000000;
+
+
+/* 8 */
+
+position: absolute;
+width: 13px;
+height: 15px;
+left: 91px;
+top: 17px;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+
+
+/* Value Field */
+
+position: absolute;
+width: 0px;
+height: 20px;
+left: 6px;
+top: -4px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Blinking Cursor */
+
+position: absolute;
+width: 0px;
+height: 13.2px;
+left: 0.5px;
+top: 1px;
+
+
+
+/* Start Cursor */
+
+position: absolute;
+left: -nan%;
+right: -nan%;
+top: 0%;
+bottom: 0%;
+
+border: 1px solid #000000;
+
+
+/* 7 */
+
+position: absolute;
+width: 13px;
+height: 15px;
+left: 80px;
+top: 17px;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+
+
+/* Value Field */
+
+position: absolute;
+width: 0px;
+height: 20px;
+left: 6px;
+top: -4px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Blinking Cursor */
+
+position: absolute;
+width: 0px;
+height: 13.2px;
+left: 0.5px;
+top: 1px;
+
+
+
+/* Start Cursor */
+
+position: absolute;
+left: -nan%;
+right: -nan%;
+top: 0%;
+bottom: 0%;
+
+border: 1px solid #000000;
+
+
+/* 6 */
+
+position: absolute;
+width: 13px;
+height: 15px;
+left: 69px;
+top: 17px;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+
+
+/* Value Field */
+
+position: absolute;
+width: 0px;
+height: 20px;
+left: 6px;
+top: -4px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Blinking Cursor */
+
+position: absolute;
+width: 0px;
+height: 13.2px;
+left: 0.5px;
+top: 1px;
+
+
+
+/* Start Cursor */
+
+position: absolute;
+left: -nan%;
+right: -nan%;
+top: 0%;
+bottom: 0%;
+
+border: 1px solid #000000;
+
+
+/* 5 */
+
+position: absolute;
+width: 13px;
+height: 15px;
+left: 58px;
+top: 17px;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+
+
+/* Value Field */
+
+position: absolute;
+width: 0px;
+height: 20px;
+left: 6px;
+top: -4px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Blinking Cursor */
+
+position: absolute;
+width: 0px;
+height: 13.2px;
+left: 0.5px;
+top: 1px;
+
+
+
+/* Start Cursor */
+
+position: absolute;
+left: -nan%;
+right: -nan%;
+top: 0%;
+bottom: 0%;
+
+border: 1px solid #000000;
+
+
+/* 4 */
+
+position: absolute;
+width: 13px;
+height: 15px;
+left: 47px;
+top: 17px;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+
+
+/* Value Field */
+
+position: absolute;
+width: 0px;
+height: 20px;
+left: 6px;
+top: -4px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Blinking Cursor */
+
+position: absolute;
+width: 0px;
+height: 13.2px;
+left: 0.5px;
+top: 1px;
+
+
+
+/* Start Cursor */
+
+position: absolute;
+left: -nan%;
+right: -nan%;
+top: 0%;
+bottom: 0%;
+
+border: 1px solid #000000;
+
+
+/* 3 */
+
+position: absolute;
+width: 13px;
+height: 15px;
+left: 36px;
+top: 17px;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+
+
+/* Value Field */
+
+position: absolute;
+width: 0px;
+height: 20px;
+left: 6px;
+top: -4px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Blinking Cursor */
+
+position: absolute;
+width: 0px;
+height: 13.2px;
+left: 0.5px;
+top: 1px;
+
+
+
+/* Start Cursor */
+
+position: absolute;
+left: -nan%;
+right: -nan%;
+top: 0%;
+bottom: 0%;
+
+border: 1px solid #000000;
+
+
+/* 2 */
+
+position: absolute;
+width: 13px;
+height: 15px;
+left: 25px;
+top: 17px;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+
+
+/* Value Field */
+
+position: absolute;
+width: 0px;
+height: 20px;
+left: 6px;
+top: -4px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Blinking Cursor */
+
+position: absolute;
+width: 0px;
+height: 13.2px;
+left: 0.5px;
+top: 1px;
+
+
+
+/* Start Cursor */
+
+position: absolute;
+left: -nan%;
+right: -nan%;
+top: 0%;
+bottom: 0%;
+
+border: 1px solid #000000;
+
+
+/* 1 */
+
+position: absolute;
+width: 13px;
+height: 15px;
+left: 15px;
+top: 17px;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+
+
+/* Value Field */
+
+position: absolute;
+width: 0px;
+height: 20px;
+left: 6px;
+top: -4px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Blinking Cursor */
+
+position: absolute;
+width: 0px;
+height: 13.2px;
+left: 0.5px;
+top: 1px;
+
+
+
+/* Start Cursor */
+
+position: absolute;
+left: -nan%;
+right: -nan%;
+top: 0%;
+bottom: 0%;
+
+border: 1px solid #000000;
+
+
+/* Key Field */
+
+position: absolute;
+width: 77px;
+left: 16px;
+top: 31.82%;
+bottom: 25.32%;
+
+font-family: 'PT Mono';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 18px;
+/* identical to box height */
+
+color: #323941;
+
+opacity: 0.8;
+
+
+/* Input Field */
+
+position: absolute;
+width: 205px;
+height: 42px;
+left: 130px;
+top: 328px;
+
+border: 1px solid #000000;
+
+/* Inside auto layout */
+flex: none;
+order: 10;
+flex-grow: 0;
+z-index: 10;
+
+
+/* Box */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+border-radius: 4px;
+
+
+/* Value */
+
+position: absolute;
+visibility: hidden;
+width: 302px;
+height: 15px;
+left: 15px;
+top: 17px;
+
+
+
+/* 26 */
+
+position: absolute;
+width: 13px;
+height: 15px;
+left: 304px;
+top: 17px;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+
+
+/* Value Field */
+
+position: absolute;
+width: 0px;
+height: 20px;
+left: 6px;
+top: -4px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Blinking Cursor */
+
+position: absolute;
+width: 0px;
+height: 13.2px;
+left: 0.5px;
+top: 1px;
+
+
+
+/* Start Cursor */
+
+position: absolute;
+left: -nan%;
+right: -nan%;
+top: 0%;
+bottom: 0%;
+
+border: 1px solid #000000;
+
+
+/* 25 */
+
+position: absolute;
+width: 13px;
+height: 15px;
+left: 292px;
+top: 17px;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+
+
+/* Value Field */
+
+position: absolute;
+width: 0px;
+height: 20px;
+left: 6px;
+top: -4px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Blinking Cursor */
+
+position: absolute;
+width: 0px;
+height: 13.2px;
+left: 0.5px;
+top: 1px;
+
+
+
+/* Start Cursor */
+
+position: absolute;
+left: -nan%;
+right: -nan%;
+top: 0%;
+bottom: 0%;
+
+border: 1px solid #000000;
+
+
+/* 24 */
+
+position: absolute;
+width: 13px;
+height: 15px;
+left: 280px;
+top: 17px;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+
+
+/* Value Field */
+
+position: absolute;
+width: 0px;
+height: 20px;
+left: 6px;
+top: -4px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Blinking Cursor */
+
+position: absolute;
+width: 0px;
+height: 13.2px;
+left: 0.5px;
+top: 1px;
+
+
+
+/* Start Cursor */
+
+position: absolute;
+left: -nan%;
+right: -nan%;
+top: 0%;
+bottom: 0%;
+
+border: 1px solid #000000;
+
+
+/* 23 */
+
+position: absolute;
+width: 13px;
+height: 15px;
+left: 268px;
+top: 17px;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+
+
+/* Value Field */
+
+position: absolute;
+width: 0px;
+height: 20px;
+left: 6px;
+top: -4px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Blinking Cursor */
+
+position: absolute;
+width: 0px;
+height: 13.2px;
+left: 0.5px;
+top: 1px;
+
+
+
+/* Start Cursor */
+
+position: absolute;
+left: -nan%;
+right: -nan%;
+top: 0%;
+bottom: 0%;
+
+border: 1px solid #000000;
+
+
+/* 22 */
+
+position: absolute;
+width: 13px;
+height: 15px;
+left: 256px;
+top: 17px;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+
+
+/* Value Field */
+
+position: absolute;
+width: 0px;
+height: 20px;
+left: 6px;
+top: -4px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Blinking Cursor */
+
+position: absolute;
+width: 0px;
+height: 13.2px;
+left: 0.5px;
+top: 1px;
+
+
+
+/* Start Cursor */
+
+position: absolute;
+left: -nan%;
+right: -nan%;
+top: 0%;
+bottom: 0%;
+
+border: 1px solid #000000;
+
+
+/* 21 */
+
+position: absolute;
+width: 13px;
+height: 15px;
+left: 244px;
+top: 17px;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+
+
+/* Value Field */
+
+position: absolute;
+width: 0px;
+height: 20px;
+left: 6px;
+top: -4px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Blinking Cursor */
+
+position: absolute;
+width: 0px;
+height: 13.2px;
+left: 0.5px;
+top: 1px;
+
+
+
+/* Start Cursor */
+
+position: absolute;
+left: -nan%;
+right: -nan%;
+top: 0%;
+bottom: 0%;
+
+border: 1px solid #000000;
+
+
+/* 20 */
+
+position: absolute;
+width: 13px;
+height: 15px;
+left: 232px;
+top: 17px;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+
+
+/* Value Field */
+
+position: absolute;
+width: 0px;
+height: 20px;
+left: 6px;
+top: -4px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Blinking Cursor */
+
+position: absolute;
+width: 0px;
+height: 13.2px;
+left: 0.5px;
+top: 1px;
+
+
+
+/* Start Cursor */
+
+position: absolute;
+left: -nan%;
+right: -nan%;
+top: 0%;
+bottom: 0%;
+
+border: 1px solid #000000;
+
+
+/* 19 */
+
+position: absolute;
+width: 13px;
+height: 15px;
+left: 220px;
+top: 17px;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+
+
+/* Value Field */
+
+position: absolute;
+width: 0px;
+height: 20px;
+left: 6px;
+top: -4px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Blinking Cursor */
+
+position: absolute;
+width: 0px;
+height: 13.2px;
+left: 0.5px;
+top: 1px;
+
+
+
+/* Start Cursor */
+
+position: absolute;
+left: -nan%;
+right: -nan%;
+top: 0%;
+bottom: 0%;
+
+border: 1px solid #000000;
+
+
+/* 18 */
+
+position: absolute;
+width: 13px;
+height: 15px;
+left: 208px;
+top: 17px;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+
+
+/* Value Field */
+
+position: absolute;
+width: 0px;
+height: 20px;
+left: 6px;
+top: -4px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Blinking Cursor */
+
+position: absolute;
+width: 0px;
+height: 13.2px;
+left: 0.5px;
+top: 1px;
+
+
+
+/* Start Cursor */
+
+position: absolute;
+left: -nan%;
+right: -nan%;
+top: 0%;
+bottom: 0%;
+
+border: 1px solid #000000;
+
+
+/* 17 */
+
+position: absolute;
+width: 13px;
+height: 15px;
+left: 196px;
+top: 17px;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+
+
+/* Value Field */
+
+position: absolute;
+width: 0px;
+height: 20px;
+left: 6px;
+top: -4px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Blinking Cursor */
+
+position: absolute;
+width: 0px;
+height: 13.2px;
+left: 0.5px;
+top: 1px;
+
+
+
+/* Start Cursor */
+
+position: absolute;
+left: -nan%;
+right: -nan%;
+top: 0%;
+bottom: 0%;
+
+border: 1px solid #000000;
+
+
+/* 16 */
+
+position: absolute;
+width: 13px;
+height: 15px;
+left: 184px;
+top: 17px;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+
+
+/* Value Field */
+
+position: absolute;
+width: 0px;
+height: 20px;
+left: 6px;
+top: -4px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Blinking Cursor */
+
+position: absolute;
+width: 0px;
+height: 13.2px;
+left: 0.5px;
+top: 1px;
+
+
+
+/* Start Cursor */
+
+position: absolute;
+left: -nan%;
+right: -nan%;
+top: 0%;
+bottom: 0%;
+
+border: 1px solid #000000;
+
+
+/* 15 */
+
+position: absolute;
+width: 13px;
+height: 15px;
+left: 172px;
+top: 17px;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+
+
+/* Value Field */
+
+position: absolute;
+width: 0px;
+height: 20px;
+left: 6px;
+top: -4px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Blinking Cursor */
+
+position: absolute;
+width: 0px;
+height: 13.2px;
+left: 0.5px;
+top: 1px;
+
+
+
+/* Start Cursor */
+
+position: absolute;
+left: -nan%;
+right: -nan%;
+top: 0%;
+bottom: 0%;
+
+border: 1px solid #000000;
+
+
+/* 14 */
+
+position: absolute;
+width: 13px;
+height: 15px;
+left: 160px;
+top: 17px;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+
+
+/* Value Field */
+
+position: absolute;
+width: 0px;
+height: 20px;
+left: 6px;
+top: -4px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Blinking Cursor */
+
+position: absolute;
+width: 0px;
+height: 13.2px;
+left: 0.5px;
+top: 1px;
+
+
+
+/* Start Cursor */
+
+position: absolute;
+left: -nan%;
+right: -nan%;
+top: 0%;
+bottom: 0%;
+
+border: 1px solid #000000;
+
+
+/* 13 */
+
+position: absolute;
+width: 13px;
+height: 15px;
+left: 148px;
+top: 17px;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+
+
+/* Value Field */
+
+position: absolute;
+width: 0px;
+height: 20px;
+left: 6px;
+top: -4px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Blinking Cursor */
+
+position: absolute;
+width: 0px;
+height: 13.2px;
+left: 0.5px;
+top: 1px;
+
+
+
+/* Start Cursor */
+
+position: absolute;
+left: -nan%;
+right: -nan%;
+top: 0%;
+bottom: 0%;
+
+border: 1px solid #000000;
+
+
+/* 12 */
+
+position: absolute;
+width: 13px;
+height: 15px;
+left: 136px;
+top: 17px;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+
+
+/* Value Field */
+
+position: absolute;
+width: 0px;
+height: 20px;
+left: 6px;
+top: -4px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Blinking Cursor */
+
+position: absolute;
+width: 0px;
+height: 13.2px;
+left: 0.5px;
+top: 1px;
+
+
+
+/* Start Cursor */
+
+position: absolute;
+left: -nan%;
+right: -nan%;
+top: 0%;
+bottom: 0%;
+
+border: 1px solid #000000;
+
+
+/* 11 */
+
+position: absolute;
+width: 13px;
+height: 15px;
+left: 124px;
+top: 17px;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+
+
+/* Value Field */
+
+position: absolute;
+width: 0px;
+height: 20px;
+left: 6px;
+top: -4px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Blinking Cursor */
+
+position: absolute;
+width: 0px;
+height: 13.2px;
+left: 0.5px;
+top: 1px;
+
+
+
+/* Start Cursor */
+
+position: absolute;
+left: -nan%;
+right: -nan%;
+top: 0%;
+bottom: 0%;
+
+border: 1px solid #000000;
+
+
+/* 10 */
+
+position: absolute;
+width: 13px;
+height: 15px;
+left: 113px;
+top: 17px;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+
+
+/* Value Field */
+
+position: absolute;
+width: 0px;
+height: 20px;
+left: 6px;
+top: -4px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Blinking Cursor */
+
+position: absolute;
+width: 0px;
+height: 13.2px;
+left: 0.5px;
+top: 1px;
+
+
+
+/* Start Cursor */
+
+position: absolute;
+left: -nan%;
+right: -nan%;
+top: 0%;
+bottom: 0%;
+
+border: 1px solid #000000;
+
+
+/* 9 */
+
+position: absolute;
+width: 13px;
+height: 15px;
+left: 102px;
+top: 17px;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+
+
+/* Value Field */
+
+position: absolute;
+width: 0px;
+height: 20px;
+left: 6px;
+top: -4px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Blinking Cursor */
+
+position: absolute;
+width: 0px;
+height: 13.2px;
+left: 0.5px;
+top: 1px;
+
+
+
+/* Start Cursor */
+
+position: absolute;
+left: -nan%;
+right: -nan%;
+top: 0%;
+bottom: 0%;
+
+border: 1px solid #000000;
+
+
+/* 8 */
+
+position: absolute;
+width: 13px;
+height: 15px;
+left: 91px;
+top: 17px;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+
+
+/* Value Field */
+
+position: absolute;
+width: 0px;
+height: 20px;
+left: 6px;
+top: -4px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Blinking Cursor */
+
+position: absolute;
+width: 0px;
+height: 13.2px;
+left: 0.5px;
+top: 1px;
+
+
+
+/* Start Cursor */
+
+position: absolute;
+left: -nan%;
+right: -nan%;
+top: 0%;
+bottom: 0%;
+
+border: 1px solid #000000;
+
+
+/* 7 */
+
+position: absolute;
+width: 13px;
+height: 15px;
+left: 80px;
+top: 17px;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+
+
+/* Value Field */
+
+position: absolute;
+width: 0px;
+height: 20px;
+left: 6px;
+top: -4px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Blinking Cursor */
+
+position: absolute;
+width: 0px;
+height: 13.2px;
+left: 0.5px;
+top: 1px;
+
+
+
+/* Start Cursor */
+
+position: absolute;
+left: -nan%;
+right: -nan%;
+top: 0%;
+bottom: 0%;
+
+border: 1px solid #000000;
+
+
+/* 6 */
+
+position: absolute;
+width: 13px;
+height: 15px;
+left: 69px;
+top: 17px;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+
+
+/* Value Field */
+
+position: absolute;
+width: 0px;
+height: 20px;
+left: 6px;
+top: -4px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Blinking Cursor */
+
+position: absolute;
+width: 0px;
+height: 13.2px;
+left: 0.5px;
+top: 1px;
+
+
+
+/* Start Cursor */
+
+position: absolute;
+left: -nan%;
+right: -nan%;
+top: 0%;
+bottom: 0%;
+
+border: 1px solid #000000;
+
+
+/* 5 */
+
+position: absolute;
+width: 13px;
+height: 15px;
+left: 58px;
+top: 17px;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+
+
+/* Value Field */
+
+position: absolute;
+width: 0px;
+height: 20px;
+left: 6px;
+top: -4px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Blinking Cursor */
+
+position: absolute;
+width: 0px;
+height: 13.2px;
+left: 0.5px;
+top: 1px;
+
+
+
+/* Start Cursor */
+
+position: absolute;
+left: -nan%;
+right: -nan%;
+top: 0%;
+bottom: 0%;
+
+border: 1px solid #000000;
+
+
+/* 4 */
+
+position: absolute;
+width: 13px;
+height: 15px;
+left: 47px;
+top: 17px;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+
+
+/* Value Field */
+
+position: absolute;
+width: 0px;
+height: 20px;
+left: 6px;
+top: -4px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Blinking Cursor */
+
+position: absolute;
+width: 0px;
+height: 13.2px;
+left: 0.5px;
+top: 1px;
+
+
+
+/* Start Cursor */
+
+position: absolute;
+left: -nan%;
+right: -nan%;
+top: 0%;
+bottom: 0%;
+
+border: 1px solid #000000;
+
+
+/* 3 */
+
+position: absolute;
+width: 13px;
+height: 15px;
+left: 36px;
+top: 17px;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+
+
+/* Value Field */
+
+position: absolute;
+width: 0px;
+height: 20px;
+left: 6px;
+top: -4px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Blinking Cursor */
+
+position: absolute;
+width: 0px;
+height: 13.2px;
+left: 0.5px;
+top: 1px;
+
+
+
+/* Start Cursor */
+
+position: absolute;
+left: -nan%;
+right: -nan%;
+top: 0%;
+bottom: 0%;
+
+border: 1px solid #000000;
+
+
+/* 2 */
+
+position: absolute;
+width: 13px;
+height: 15px;
+left: 25px;
+top: 17px;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+
+
+/* Value Field */
+
+position: absolute;
+width: 0px;
+height: 20px;
+left: 6px;
+top: -4px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Blinking Cursor */
+
+position: absolute;
+width: 0px;
+height: 13.2px;
+left: 0.5px;
+top: 1px;
+
+
+
+/* Start Cursor */
+
+position: absolute;
+left: -nan%;
+right: -nan%;
+top: 0%;
+bottom: 0%;
+
+border: 1px solid #000000;
+
+
+/* 1 */
+
+position: absolute;
+width: 13px;
+height: 15px;
+left: 15px;
+top: 17px;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+
+
+/* Value Field */
+
+position: absolute;
+width: 0px;
+height: 20px;
+left: 6px;
+top: -4px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Blinking Cursor */
+
+position: absolute;
+width: 0px;
+height: 13.2px;
+left: 0.5px;
+top: 1px;
+
+
+
+/* Start Cursor */
+
+position: absolute;
+left: -nan%;
+right: -nan%;
+top: 0%;
+bottom: 0%;
+
+border: 1px solid #000000;
+
+
+/* Key Field */
+
+position: absolute;
+width: 77px;
+left: 16px;
+top: 31.82%;
+bottom: 25.32%;
+
+font-family: 'PT Mono';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 18px;
+/* identical to box height */
+
+color: #323941;
+
+opacity: 0.8;

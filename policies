@@ -1,0 +1,500 @@
+/* Policies */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 6px;
+gap: 4px;
+isolation: isolate;
+
+position: relative;
+width: 360px;
+height: 800px;
+
+background: #FFFFFF;
+border-radius: 14px;
+
+
+/* Group 18 */
+
+position: absolute;
+width: 277px;
+height: 35px;
+left: 22px;
+top: 78px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Rectangle 8 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 277px;
+height: 35px;
+left: 22px;
+top: 78px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+
+
+/* Policies */
+
+position: absolute;
+width: 206px;
+height: 30px;
+left: 96px;
+top: 35px;
+
+font-family: 'Baloo';
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 8px;
+/* or 18% */
+letter-spacing: 0.02em;
+
+color: #D00809;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* —Pngtree—vector document filter icon_4270983 1 */
+
+position: absolute;
+width: 68px;
+height: 35px;
+left: 291px;
+top: 78px;
+
+background: url(—Pngtree—vector document filter icon_4270983);
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Rectangle 14 */
+
+position: absolute;
+width: 359px;
+height: 154px;
+left: 0px;
+top: 133px;
+
+background: #D9D9D9;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+
+/* Rectangle 15 */
+
+position: absolute;
+width: 359px;
+height: 154px;
+left: 0px;
+top: 307px;
+
+background: #D9D9D9;
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+z-index: 4;
+
+
+/* Rectangle 16 */
+
+position: absolute;
+width: 359px;
+height: 154px;
+left: 0px;
+top: 481px;
+
+background: #D9D9D9;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+z-index: 5;
+
+
+/* Rectangle 17 */
+
+position: absolute;
+width: 359px;
+height: 154px;
+left: 1px;
+top: 655px;
+
+background: #D9D9D9;
+
+/* Inside auto layout */
+flex: none;
+order: 6;
+flex-grow: 0;
+z-index: 6;
+
+
+/* image 39 */
+
+position: absolute;
+width: 108px;
+height: 101px;
+left: 11px;
+top: 157px;
+
+background: url(image.png);
+
+/* Inside auto layout */
+flex: none;
+order: 7;
+flex-grow: 0;
+z-index: 7;
+
+
+/* image 40 */
+
+position: absolute;
+width: 100px;
+height: 91px;
+left: 15px;
+top: 339px;
+
+background: url(image.png);
+
+/* Inside auto layout */
+flex: none;
+order: 8;
+flex-grow: 0;
+z-index: 8;
+
+
+/* image 41 */
+
+position: absolute;
+width: 100px;
+height: 117px;
+left: 15px;
+top: 496px;
+
+background: url(image.png);
+
+/* Inside auto layout */
+flex: none;
+order: 9;
+flex-grow: 0;
+z-index: 9;
+
+
+/* image 42 */
+
+position: absolute;
+width: 100px;
+height: 103px;
+left: 15px;
+top: 672px;
+
+background: url(image.png);
+
+/* Inside auto layout */
+flex: none;
+order: 10;
+flex-grow: 0;
+z-index: 10;
+
+
+/* Gowd Health plus */
+
+position: absolute;
+width: 188px;
+height: 26px;
+left: 139px;
+top: 184px;
+
+font-family: 'Baloo';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 8px;
+/* or 40% */
+letter-spacing: 0.02em;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 11;
+flex-grow: 0;
+z-index: 11;
+
+
+/* Covers Out-Of-Pocket Expenses */
+
+position: absolute;
+width: 186px;
+height: 48px;
+left: 141px;
+top: 202px;
+
+font-family: 'Cormorant';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 8px;
+/* or 57% */
+letter-spacing: 0.02em;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 12;
+flex-grow: 0;
+z-index: 12;
+
+
+/* Joshi health plus */
+
+position: absolute;
+width: 256px;
+height: 35px;
+left: 146px;
+top: 358px;
+
+font-family: 'Baloo';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 8px;
+/* or 40% */
+letter-spacing: 0.02em;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 13;
+flex-grow: 0;
+z-index: 13;
+
+
+/* Kogtas Health Plan */
+
+position: absolute;
+width: 188px;
+height: 8px;
+left: 139px;
+top: 534px;
+
+font-family: 'Baloo';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 8px;
+/* identical to box height, or 40% */
+letter-spacing: 0.02em;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 14;
+flex-grow: 0;
+z-index: 14;
+
+
+/* Online, Long-Term & Many More Discounts */
+
+position: absolute;
+width: 186px;
+height: 48px;
+left: 141px;
+top: 552px;
+
+font-family: 'Cormorant';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 8px;
+/* or 57% */
+letter-spacing: 0.02em;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 15;
+flex-grow: 0;
+z-index: 15;
+
+
+/* Garg Healthy Life */
+
+position: absolute;
+width: 188px;
+height: 26px;
+left: 139px;
+top: 701px;
+
+font-family: 'Baloo';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 8px;
+/* or 40% */
+letter-spacing: 0.02em;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 16;
+flex-grow: 0;
+z-index: 16;
+
+
+/* Cover Upto 2 Cr & Tenure Upto 3 Years */
+
+position: absolute;
+width: 186px;
+height: 48px;
+left: 141px;
+top: 719px;
+
+font-family: 'Cormorant';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 8px;
+/* or 57% */
+letter-spacing: 0.02em;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 17;
+flex-grow: 0;
+z-index: 17;
+
+
+/* Group 28 */
+
+position: absolute;
+width: 12px;
+height: 667px;
+left: 348px;
+top: 133px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 18;
+flex-grow: 0;
+z-index: 18;
+
+
+/* Rectangle 12 */
+
+position: absolute;
+width: 12px;
+height: 667px;
+left: 348px;
+top: 133px;
+
+background: #D9D9D9;
+
+
+/* Rectangle 13 */
+
+position: absolute;
+width: 7.71px;
+height: 344.84px;
+left: 350.14px;
+top: 212.4px;
+
+background: #A4A0A0;
+
+
+/* ^ */
+
+position: absolute;
+width: 2px;
+height: 47px;
+left: 348px;
+top: 136px;
+
+font-family: 'Bebas Neue';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 20px;
+/* or 66% */
+letter-spacing: 0.02em;
+
+color: #4C4747;
+
+border: 1px solid #000000;
+
+/* Inside auto layout */
+flex: none;
+order: 19;
+flex-grow: 0;
+z-index: 19;
+
+
+/* ^ */
+
+position: absolute;
+width: 2px;
+height: 159px;
+left: 348px;
+top: 789px;
+
+font-family: 'Bebas Neue';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 20px;
+/* or 66% */
+letter-spacing: 0.02em;
+
+color: #4C4747;
+
+border: 1px solid #000000;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+/* Inside auto layout */
+flex: none;
+order: 20;
+flex-grow: 0;
+z-index: 20;
